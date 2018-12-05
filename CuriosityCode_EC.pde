@@ -1,4 +1,3 @@
-// Post your CuriosityCode_EC here. 
 size(650,650);
 
 //stick
